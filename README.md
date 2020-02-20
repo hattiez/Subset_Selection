@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Subset Selection Code demo
 
 You can use the [editor on GitHub](https://github.com/hattiezhu/Subset_Selection/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
