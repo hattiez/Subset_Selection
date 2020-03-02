@@ -1,13 +1,2 @@
 ## Subset Selection Code demo
-
-<style>
-  body {
-    background-color: black;
-    text-align: center;
-    padding: 200px;
-  }
-  h1 {
-    font-size: 60px;
-    color: #eeee33;
-  }
-</style>
+SubsetSelection.Rmd
