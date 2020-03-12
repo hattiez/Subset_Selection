@@ -1,2 +1,6 @@
 ## Subset Selection Code demo
-SubsetSelection.Rmd
+Team 1
+
+## Lab Code
+
+- [Lab File](SubsetSelection.Rmd) 
